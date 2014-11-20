@@ -12,6 +12,21 @@ K CPU, 65xx, 8bit
 F 65xx_Library/_datasheet/MCS6502_1976_Jan.pdf
 $ENDCMP
 #
+$CMP MCS6503
+D MOS Technologies MCS6503 CPU
+K CPU, 65xx, 8bit
+$ENDCMP
+#
+$CMP MCS6504
+D MOS Technologies MCS6504 CPU
+K CPU, 65xx, 8bit
+$ENDCMP
+#
+$CMP MCS6505
+D MOS Technologies MCS6505 CPU
+K CPU, 65xx, 8bit
+$ENDCMP
+#
 $CMP R6532
 D Mostek 6532 RIOT, RAM / IO / Timer
 K RIOT, MOS, 65xx
